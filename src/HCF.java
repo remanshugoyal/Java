@@ -9,7 +9,7 @@ public class HCF {
         int min=0;
         if (a>b){
             min =b;
-        }
+
         else{
             min=a;
         }
